@@ -1,10 +1,10 @@
-// Para executar //
+# Para executar
 
-// Baixe os módulos necessários
+### Baixe os módulos necessários
 npm install
 
-// Inicie o server
+### Inicie o server
 node ./src/server.js
 
-// Execute o client
+### Execute o client
 node ./src/client.js
